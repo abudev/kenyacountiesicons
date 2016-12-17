@@ -1,0 +1,168 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?rzk5pr');
+  src:  url('fonts/icomoon.eot?rzk5pr#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?rzk5pr') format('truetype'),
+    url('fonts/icomoon.woff?rzk5pr') format('woff'),
+    url('fonts/icomoon.svg?rzk5pr#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-baringo:before {
+  content: "\e900";
+}
+.icon-bomet:before {
+  content: "\e901";
+}
+.icon-bungoma:before {
+  content: "\e902";
+}
+.icon-busia:before {
+  content: "\e903";
+}
+.icon-elgoyomarakwet:before {
+  content: "\e904";
+}
+.icon-embu:before {
+  content: "\e905";
+}
+.icon-garisa:before {
+  content: "\e906";
+}
+.icon-homabay:before {
+  content: "\e907";
+}
+.icon-isiolo:before {
+  content: "\e908";
+}
+.icon-kajiado:before {
+  content: "\e909";
+}
+.icon-kakamega:before {
+  content: "\e90a";
+}
+.icon-kericho:before {
+  content: "\e90b";
+}
+.icon-kiambu:before {
+  content: "\e90c";
+}
+.icon-kilifi:before {
+  content: "\e90d";
+}
+.icon-kirinyaga:before {
+  content: "\e90e";
+}
+.icon-kisi:before {
+  content: "\e90f";
+}
+.icon-kisumu:before {
+  content: "\e910";
+}
+.icon-kitui:before {
+  content: "\e911";
+}
+.icon-kwale:before {
+  content: "\e912";
+}
+.icon-laikipia:before {
+  content: "\e913";
+}
+.icon-lamu:before {
+  content: "\e914";
+}
+.icon-machakos:before {
+  content: "\e915";
+}
+.icon-makueni:before {
+  content: "\e916";
+}
+.icon-mandera:before {
+  content: "\e917";
+}
+.icon-maranga:before {
+  content: "\e918";
+}
+.icon-marsabit:before {
+  content: "\e919";
+}
+.icon-meru:before {
+  content: "\e91a";
+}
+.icon-migori:before {
+  content: "\e91b";
+}
+.icon-mombasa:before {
+  content: "\e91c";
+}
+.icon-nairobi:before {
+  content: "\e91d";
+}
+.icon-nakuru:before {
+  content: "\e91e";
+}
+.icon-nandi:before {
+  content: "\e91f";
+}
+.icon-narok:before {
+  content: "\e920";
+}
+.icon-nyamira:before {
+  content: "\e921";
+}
+.icon-nyandarua:before {
+  content: "\e922";
+}
+.icon-nyeri:before {
+  content: "\e923";
+}
+.icon-samburu:before {
+  content: "\e924";
+}
+.icon-siaya:before {
+  content: "\e925";
+}
+.icon-taitataveta:before {
+  content: "\e926";
+}
+.icon-tanariver:before {
+  content: "\e927";
+}
+.icon-tharaka:before {
+  content: "\e928";
+}
+.icon-transnzoia:before {
+  content: "\e929";
+}
+.icon-turukana:before {
+  content: "\e92a";
+}
+.icon-uasingishu:before {
+  content: "\e92b";
+}
+.icon-vihiga:before {
+  content: "\e92c";
+}
+.icon-wajir:before {
+  content: "\e92d";
+}
+.icon-westpokot:before {
+  content: "\e92e";
+}
+
